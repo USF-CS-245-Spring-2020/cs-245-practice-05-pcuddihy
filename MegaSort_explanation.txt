@@ -1,4 +1,0 @@
-I used Merge Sort on the list because I saw from our previous practice assignment that it is very fast for large lists, having a running time of O(n log n). 
-For this assignment, a quadratic sorting algorithm would be poor, having to do 1,000,000,000,000 operations. 
-Merge Sort, on the other hand, has to do only 6,000,000 operations, which means it could sort this list 166,667 times while a quadratic sort would've only finished one sort.
-For before sorting, I put the values into an ArrayList, then into an array, sorted them using merge sort, and printed the values with the leading zeroes, except for the 0 values.
